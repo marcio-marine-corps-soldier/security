@@ -1,5 +1,7 @@
 # Cybersecurity: From the Isolated Fortress to Continuous Monitoring
 
+<img width="1536" height="1024" alt="cyber-castle" src="https://github.com/user-attachments/assets/386471f4-ea05-4749-86bb-de4b227d112c" />
+
 ## How Digital Protection Has Transformed
 
 Cybersecurity was once seen as a specialized IT discipline. Today, it is a central strategic concern for governments, companies, and individuals. The evolution wasn't just about more complex viruses, but a fundamental shift in defense philosophy, driven by the digital transformation of society.
