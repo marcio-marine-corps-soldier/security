@@ -6,21 +6,21 @@
 
 # 📖 About the Project
 
-This repository documents a cybersecurity laboratory focused on understanding **phishing attacks** using **Zphisher** in an isolated and authorized testing environment.
+This repository documents a cybersecurity laboratory focused on understanding phishing attacks using **Zphisher** in an isolated and authorized environment.
 
-The purpose of this project is to study how phishing campaigns operate from a defensive perspective, helping security professionals recognize attack patterns, improve detection capabilities, and promote cybersecurity awareness.
+The objective is to analyze phishing techniques from a defensive perspective, helping cybersecurity professionals recognize attack patterns, improve detection capabilities, and strengthen security awareness.
 
-> **Disclaimer:** All activities were conducted exclusively in a controlled laboratory environment for educational purposes.
+> **Disclaimer:** This project was conducted exclusively in a controlled laboratory environment for educational purposes.
 
 ---
 
 # 🎯 Objectives
 
-* Understand the fundamentals of phishing attacks.
+* Understand phishing attack concepts.
 * Study social engineering techniques.
-* Learn the basic workflow of the Zphisher framework.
-* Document laboratory activities using Markdown.
-* Practice GitHub project organization.
+* Learn the basic workflow of Zphisher.
+* Practice technical documentation with Markdown.
+* Organize a cybersecurity project using GitHub.
 * Promote cybersecurity awareness and defensive thinking.
 
 ---
@@ -42,7 +42,6 @@ The purpose of this project is to study how phishing campaigns operate from a de
 * Credential Harvesting Concepts
 * Information Security
 * Ethical Hacking
-* Defensive Security
 * Cybersecurity Awareness
 
 ---
@@ -54,45 +53,75 @@ The purpose of this project is to study how phishing campaigns operate from a de
 ├── README.md
 ├── DISCLAIMER.md
 ├── LICENSE
-├── images/
-│   ├── 01-kali-linux.png
-│   ├── 02-zphisher.png
-│   ├── 03-laboratory.png
-│   ├── 04-demonstration-page.png
-│   └── 05-results.png
-└── docs/
-    └── notes.md
+├── docs/
+│   └── notes.md
+└── images/
+    ├── 01-kali-linux.png
+    ├── 02-zphisher.png
+    ├── 03-laboratory.png
+    ├── 04-demonstration-page.png
+    └── 05-results.png
 ```
 
 ---
 
-# 📸 Screenshots
+# 📸 Laboratory Screenshots
 
-The repository includes screenshots documenting the laboratory workflow, including:
+## 1. Kali Linux Environment
 
-* Kali Linux environment
-* Zphisher interface
-* Laboratory configuration
-* Demonstration web page
-* Laboratory results
+<p align="center">
+  <img src="images/01-kali-linux.png" width="900">
+</p>
+
+---
+
+## 2. Zphisher Interface
+
+<p align="center">
+  <img src="images/02-zphisher.png" width="900">
+</p>
+
+---
+
+## 3. Laboratory Environment
+
+<p align="center">
+  <img src="images/03-laboratory.png" width="900">
+</p>
+
+---
+
+## 4. Demonstration Page
+
+<p align="center">
+  <img src="images/04-demonstration-page.png" width="900">
+</p>
+
+---
+
+## 5. Laboratory Results
+
+<p align="center">
+  <img src="images/05-results.png" width="900">
+</p>
 
 ---
 
 # 📖 Learning Outcomes
 
-This laboratory provided practical experience with:
+This project provided practical experience with:
 
 * Understanding phishing attack workflows.
 * Recognizing common social engineering techniques.
-* Identifying indicators of phishing campaigns.
-* Improving cybersecurity documentation skills.
-* Organizing technical projects using GitHub.
+* Identifying phishing indicators.
+* Writing clear technical documentation.
+* Organizing cybersecurity projects using GitHub.
 
 ---
 
 # 🔒 Security Considerations
 
-Phishing remains one of the most common cyber threats affecting individuals and organizations.
+Phishing remains one of the most prevalent cyber threats targeting individuals and organizations.
 
 Recommended defensive practices include:
 
@@ -108,22 +137,22 @@ Recommended defensive practices include:
 
 # ⚠ Disclaimer
 
-This repository is intended **exclusively for educational and research purposes**.
+This repository is intended exclusively for educational and research purposes.
 
 All demonstrations were performed in an isolated laboratory environment with proper authorization.
 
-No real users, production systems, or third-party services were targeted.
+No production systems, third-party services, or real user credentials were targeted.
 
-The objective is to improve cybersecurity knowledge and defensive capabilities.
+For additional information, see the **DISCLAIMER.md** file.
 
 ---
 
 # 📚 References
 
 * Digital Innovation One (DIO)
-* Zphisher Project
 * OWASP
 * MITRE ATT&CK Framework
+* Kali Linux Documentation
 * GitHub Documentation
 
 ---
@@ -132,16 +161,17 @@ The objective is to improve cybersecurity knowledge and defensive capabilities.
 
 Developed as part of the **Digital Innovation One (DIO)** Cybersecurity Challenge.
 
-GitHub: **https://github.com/marcio-marine-corps-soldier**
+**GitHub:** https://github.com/marcio-marine-corps-soldier
 
 ---
 
 # ⭐ Conclusion
 
-This project demonstrates:
+This repository demonstrates:
 
-* Technical documentation using Markdown.
-* GitHub repository organization.
-* Understanding of phishing attack concepts.
-* Awareness of social engineering techniques.
-* Commitment to ethical cybersecurity practices and responsible security research.
+* Professional technical documentation.
+* GitHub project organization.
+* Understanding of phishing concepts.
+* Social engineering awareness.
+* Ethical cybersecurity practices.
+* Responsible security research.
