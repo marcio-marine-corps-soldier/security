@@ -1,5 +1,7 @@
 # 🎣 Phishing Awareness Laboratory with Zphisher
 
+<img width="1983" height="793" alt="ciber-securitu-phishing-lab" src="https://github.com/user-attachments/assets/07300d94-78d2-4405-81f7-c68a7e53793f" />
+
 > Educational cybersecurity laboratory developed as part of the **Digital Innovation One (DIO)** challenge to study phishing techniques, social engineering, and defensive awareness in a controlled environment.
 
 ---
